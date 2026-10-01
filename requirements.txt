@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+pandas
+scikit-learn
+numpy
+Werkzeug
+python-dotenv
+Flask-SocketIO==5.4.1
+eventlet
